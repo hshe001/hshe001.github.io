@@ -21,11 +21,11 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "APLP.jpg"
+  avatar           : "hshe.jpg"
   name             : "Hongsen HE"
   pronouns         : # example: "Dr."  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  location         : "Xiamen, Cina"
   employer         : "Xiamen University"
   uri              : # URL
   email            : "hshe@xmu.edu.cn" 
