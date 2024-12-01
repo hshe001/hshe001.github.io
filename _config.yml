@@ -12,7 +12,7 @@ title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://sen_lab.github.io
+url                      : https://hshe001.github.io
 baseurl                  :
 repository               : "academicpages/academicpages.github.io"
 
